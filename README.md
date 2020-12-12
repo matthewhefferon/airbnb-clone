@@ -1,4 +1,8 @@
-## Airbnb Clone - https://airbnb-clone-b9cd3.web.app/
+## Airbnb Clone
+
+Demo: https://airbnb-clone-b9cd3.web.app/
+
+![airbnb clone](https://user-images.githubusercontent.com/4500215/101992520-35695a80-3c71-11eb-90e9-4c8bb359bc33.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
